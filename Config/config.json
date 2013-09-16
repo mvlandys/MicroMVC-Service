@@ -1,0 +1,15 @@
+{
+    "DB": {
+        "enabled"   : "true",
+        "host"      : "localhost",
+        "database"  : "database",
+        "username"  : "root",
+        "password"  : "root"
+    },
+
+    "Core": {
+        "hostname"  : "domain.com",
+        "rootFolder": "/var/www/html/MicroMVC_Service",
+        "logErrors" : "false"
+    }
+}
